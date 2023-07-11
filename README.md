@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋🏼, I'm Camilla</h1>
-<h3 align="center">A cloud/backend developer interning at CrowdStrike</h3>
-<p></p>
+<h1 align="left">Hi 👋🏼, I'm Camilla</h1>
+<h3 align="left">A cloud/backend developer interning at CrowdStrike</h4>
+<br> </br>
 
 
 
