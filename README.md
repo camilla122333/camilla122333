@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Go, Kubernetes, microservices at CrowdStrike**
 
-- 🌱 I’m currently learning **Kafka, Elasticsearch, Grafana, Go**
+- 🌱 These days I'm learning **Kafka, Elasticsearch, Grafana, Go**
 
 - 💬 Ask me about **my path to becoming a cloud engineer**
 
